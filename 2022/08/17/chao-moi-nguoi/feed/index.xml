@@ -9,7 +9,7 @@
 	<title>
 	Các phản hồi luận về: Chào tất cả mọi người!	</title>
 	<atom:link href="http://localhost/myproject/wordpress/2022/08/17/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
-	<link>http://kothichdangky.github.io/mywordpress/2022/08/17/chao-moi-nguoi/</link>
+	<link>https://kothichdangky.github.io/mywordpress/2022/08/17/chao-moi-nguoi/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 17 Aug 2022 07:41:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Bởi: Một người bình luận WordPress		</title>
-		<link>http://kothichdangky.github.io/mywordpress/2022/08/17/chao-moi-nguoi/#comment-1</link>
+		<link>https://kothichdangky.github.io/mywordpress/2022/08/17/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Wed, 17 Aug 2022 07:41:41 +0000</pubDate>
-		<guid isPermaLink="false">http://kothichdangky.github.io/mywordpress/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://kothichdangky.github.io/mywordpress/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
